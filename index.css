@@ -1,0 +1,41 @@
+.osnow{
+    position: absolute;
+    width: 200px;
+    height: 530px;
+    border: 1px solid rgb(0, 0, 0);
+    left: 45%;
+    z-index: 1;
+}
+
+.read{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 100px;
+    left: 25px;
+    top: 20px;
+    z-index: 2;
+}
+
+.blue{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 100px;
+    left: 25px;
+    top: 190px;
+    z-index: 2;
+}
+
+.green{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border-radius: 100px;
+    left: 25px;
+    top: 360px;
+    z-index: 2;
+}
